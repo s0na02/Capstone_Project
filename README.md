@@ -7,17 +7,17 @@ This is a Python-based bond valuation calculator that can be used to price fixed
 The calculator requires the following inputs to value a bond:
 
 
-***-Face value of the bond
+***-Face value of the bond***
 
-***-Coupon rate
+***-Coupon rate***
 
-***-Coupon frequency
+***-Coupon frequency***
 
-***-Settlement date (date at which we price the bond)
+***-Settlement date (date at which we price the bond)***
 
-***-Maturity date
+***-Maturity date***
 
-***-Day count convention: Available conventions are Actual/Actual (ISMA) and 30/360 (Bond Basis).
+***-Day count convention:*** Available conventions are Actual/Actual (ISMA) and 30/360 (Bond Basis).
 
 
 Additionally, the calculator requires either the ***price of the bond (clean or dirty)*** or the ***yield to maturity (annual)*** to value the bond.
