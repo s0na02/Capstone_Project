@@ -24,7 +24,7 @@ Additionally, the calculator requires either the ***price of the bond (clean or 
 
 If you want to price a zero-coupon bond, set the coupon rate to zero.
 
-##Usage
+## Usage
 
 The bond valuation calculator is implemented in the form of a Python class. To use the calculator, simply instantiate the class and provide the required inputs.
 
