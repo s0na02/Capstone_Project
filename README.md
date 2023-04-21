@@ -32,7 +32,7 @@ Here is an example of how to use the calculator:
 
 from bond_valuation_calculator import Bond
 
-```
+```ruby
 # Parameters
 principal_value = 1125
 coupon_rate = 0.065
