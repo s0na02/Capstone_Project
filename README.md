@@ -7,7 +7,7 @@ This is a Python-based bond valuation calculator that can be used to price fixed
 The calculator requires the following inputs to value a bond:
 
 
-***-Face value of the bond***
+***-Principal or face value of the bond***
 
 ***-Coupon rate***
 
