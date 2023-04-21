@@ -30,8 +30,6 @@ The bond valuation calculator is implemented in the form of a Python class. To u
 
 Here is an example of how to use the calculator:
 
-from bond_valuation_calculator import Bond
-
 ```ruby
 # Parameters
 principal_value = 1125
